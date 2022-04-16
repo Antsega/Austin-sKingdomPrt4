@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6DC4Bcf74f971D16ce701a20D94d91A340Eff728",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x6dc4bcf74f971d16ce701a20d94d91a340eff728",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Austin's Kingdom",
+  "SYMBOL": "AKNFT",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/austin-s-kingdom",
+  "SHOW_BACKGROUND": true
+}
